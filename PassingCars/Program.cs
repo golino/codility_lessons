@@ -11,11 +11,11 @@ namespace PassingCars
 		static void Main(string[] args)
 		{
 			int[] A = RandomInt(100000);//{ };// 0, 1, 0, 1, 1 };
-			Console.WriteLine(solution(A));
+			Console.WriteLine(Solution(A));
 			Console.ReadLine();
 		}
 		//https://codility.com/demo/results/trainingVERZSJ-VYV/
-		public static int solution(int[] A)
+		public static int Solution(int[] A)
 		{
 			if (A.Length > 1000000000 || A[0] > 100000)
 				return -1;
