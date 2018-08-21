@@ -23,6 +23,7 @@ namespace CountDiv
 		}
 		public static int solution(int A, int B, int K)
 		{
+			//Teste
 			if ((A < 0 || A > 2000000000 || B < 0) | (B > 2000000000 || K < 1 || K > 2000000000))
 				return 0;
 
