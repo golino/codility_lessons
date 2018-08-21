@@ -34,7 +34,7 @@ namespace PassingCars
 					pairs++;
 					westerns.Add(i);
 				}
-				else
+				else if (!A[i].Equals(1))
 				{
 					easterns.Add(i);
 				}
