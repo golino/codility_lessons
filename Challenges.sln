@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinAvgTwoSlice", "MinAvgTwo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenomicRangeQuery", "GenomicRangeQuery\GenomicRangeQuery.csproj", "{E4A47C49-4412-465C-A083-5839F5C963DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.Unit", "Codility.Unit\Codility.Unit.csproj", "{9D1BAFAB-A6D2-4461-9195-65302ADCAE07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{E4A47C49-4412-465C-A083-5839F5C963DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4A47C49-4412-465C-A083-5839F5C963DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4A47C49-4412-465C-A083-5839F5C963DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D1BAFAB-A6D2-4461-9195-65302ADCAE07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1BAFAB-A6D2-4461-9195-65302ADCAE07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1BAFAB-A6D2-4461-9195-65302ADCAE07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1BAFAB-A6D2-4461-9195-65302ADCAE07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -139,75 +145,8 @@ Global
 		{D9FB6140-9412-4769-A103-6C64A1E4CFAE} = {772C92F7-BA6E-4A11-B4C6-9F7C0EEBAAD0}
 		{E4A47C49-4412-465C-A083-5839F5C963DA} = {772C92F7-BA6E-4A11-B4C6-9F7C0EEBAAD0}
 	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 17
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://golino.visualstudio.com/
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = BinaryGap\\BinaryGap.csproj
-		SccProjectTopLevelParentUniqueName1 = Challenges.sln
-		SccProjectName1 = BinaryGap
-		SccLocalPath1 = BinaryGap
-		SccProjectUniqueName2 = CountDiv\\CountDiv.csproj
-		SccProjectTopLevelParentUniqueName2 = Challenges.sln
-		SccProjectName2 = CountDiv
-		SccLocalPath2 = CountDiv
-		SccProjectUniqueName3 = CyclicRotation\\CyclicRotation.csproj
-		SccProjectTopLevelParentUniqueName3 = Challenges.sln
-		SccProjectName3 = CyclicRotation
-		SccLocalPath3 = CyclicRotation
-		SccProjectUniqueName4 = DigitSum\\DigitSum.csproj
-		SccProjectTopLevelParentUniqueName4 = Challenges.sln
-		SccProjectName4 = DigitSum
-		SccLocalPath4 = DigitSum
-		SccProjectUniqueName5 = FrogJmp\\FrogJmp.csproj
-		SccProjectTopLevelParentUniqueName5 = Challenges.sln
-		SccProjectName5 = FrogJmp
-		SccLocalPath5 = FrogJmp
-		SccProjectUniqueName6 = FrogRiverOne\\FrogRiverOne.csproj
-		SccProjectTopLevelParentUniqueName6 = Challenges.sln
-		SccProjectName6 = FrogRiverOne
-		SccLocalPath6 = FrogRiverOne
-		SccProjectUniqueName7 = GenomicRangeQuery\\GenomicRangeQuery.csproj
-		SccProjectTopLevelParentUniqueName7 = Challenges.sln
-		SccProjectName7 = GenomicRangeQuery
-		SccLocalPath7 = GenomicRangeQuery
-		SccProjectUniqueName8 = MaxCounters\\MaxCounters.csproj
-		SccProjectTopLevelParentUniqueName8 = Challenges.sln
-		SccProjectName8 = MaxCounters
-		SccLocalPath8 = MaxCounters
-		SccProjectUniqueName9 = MinAvgTwoSlice\\MinAvgTwoSlice.csproj
-		SccProjectTopLevelParentUniqueName9 = Challenges.sln
-		SccProjectName9 = MinAvgTwoSlice
-		SccLocalPath9 = MinAvgTwoSlice
-		SccProjectUniqueName10 = MissingInteger\\MissingInteger.csproj
-		SccProjectTopLevelParentUniqueName10 = Challenges.sln
-		SccProjectName10 = MissingInteger
-		SccLocalPath10 = MissingInteger
-		SccProjectUniqueName11 = OddOccurrencesInArray\\OddOccurrencesInArray.csproj
-		SccProjectTopLevelParentUniqueName11 = Challenges.sln
-		SccProjectName11 = OddOccurrencesInArray
-		SccLocalPath11 = OddOccurrencesInArray
-		SccProjectUniqueName12 = PassingCars\\PassingCars.csproj
-		SccProjectTopLevelParentUniqueName12 = Challenges.sln
-		SccProjectName12 = PassingCars
-		SccLocalPath12 = PassingCars
-		SccProjectUniqueName13 = PermCheck\\PermCheck.csproj
-		SccProjectTopLevelParentUniqueName13 = Challenges.sln
-		SccProjectName13 = PermCheck
-		SccLocalPath13 = PermCheck
-		SccProjectUniqueName14 = PermMissingElem\\PermMissingElem.csproj
-		SccProjectTopLevelParentUniqueName14 = Challenges.sln
-		SccProjectName14 = PermMissingElem
-		SccLocalPath14 = PermMissingElem
-		SccProjectUniqueName15 = TapeEquilibrium\\TapeEquilibrium.csproj
-		SccProjectTopLevelParentUniqueName15 = Challenges.sln
-		SccProjectName15 = TapeEquilibrium
-		SccLocalPath15 = TapeEquilibrium
-		SccProjectUniqueName16 = TW\\TW.csproj
-		SccProjectTopLevelParentUniqueName16 = Challenges.sln
-		SccProjectName16 = TW
-		SccLocalPath16 = TW
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F8E0917-B6A7-4802-A74F-25EF87ADBB53}
 	EndGlobalSection
 	GlobalSection(Performance) = preSolution
 		HasPerformanceSessions = true

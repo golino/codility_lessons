@@ -1,0 +1,7 @@
+D:\Desenvolvimento\github\golino\codility_lessons\GenomicRangeQuery\bin\Debug\GenomicRangeQuery.exe.config
+D:\Desenvolvimento\github\golino\codility_lessons\GenomicRangeQuery\bin\Debug\GenomicRangeQuery.exe
+D:\Desenvolvimento\github\golino\codility_lessons\GenomicRangeQuery\bin\Debug\GenomicRangeQuery.pdb
+D:\Desenvolvimento\github\golino\codility_lessons\GenomicRangeQuery\obj\Debug\GenomicRangeQuery.csprojAssemblyReference.cache
+D:\Desenvolvimento\github\golino\codility_lessons\GenomicRangeQuery\obj\Debug\GenomicRangeQuery.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\github\golino\codility_lessons\GenomicRangeQuery\obj\Debug\GenomicRangeQuery.exe
+D:\Desenvolvimento\github\golino\codility_lessons\GenomicRangeQuery\obj\Debug\GenomicRangeQuery.pdb
