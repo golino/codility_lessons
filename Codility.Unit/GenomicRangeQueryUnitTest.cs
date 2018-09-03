@@ -14,7 +14,7 @@ namespace Codility.Unit
         private void GenerateValues()
         {
             int dnaSize = new Random().Next(100000);
-            int searchSize = new Random(10000);
+            int searchSize = new Random().Next();
 
 
         }
