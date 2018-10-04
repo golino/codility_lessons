@@ -1,0 +1,4 @@
+language: csharp
+solution: Challenges.sln
+install:
+	- nuget restore Challenges.sln
