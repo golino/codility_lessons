@@ -9,7 +9,7 @@ namespace Distinct
 		public Solution()
 		{
 		}
-		https://app.codility.com/demo/results/training8AKY8D-W3X/
+		//https://app.codility.com/demo/results/training8AKY8D-W3X/
 
 		public int solution(int[] A)
 		{
