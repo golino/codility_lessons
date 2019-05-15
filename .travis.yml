@@ -1,0 +1,6 @@
+language: csharp
+solution: Challenges.sln
+mono:
+	- latest
+install:
+	- nuget restore Challenges.sln
