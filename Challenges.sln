@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26430.16
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitSum", "DigitSum\DigitSum.csproj", "{14FE2876-5F62-4843-A8D9-B943DD70EC3B}"
 EndProject
@@ -48,6 +48,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenomicRangeQuery", "GenomicRangeQuery\GenomicRangeQuery.csproj", "{E4A47C49-4412-465C-A083-5839F5C963DA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.Unit", "Codility.Unit\Codility.Unit.csproj", "{9D1BAFAB-A6D2-4461-9195-65302ADCAE07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson6", "Lesson6", "{C2F9937D-DBEA-423B-B1CD-2D758C004FF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distinct", "Distinct\Distinct.csproj", "{81C72B53-72C6-4630-A1E8-074AEACC7F6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.XUnit", "Codility.XUnit\Codility.XUnit.csproj", "{58CF75C2-5456-414B-A6DD-1A9B4FC2BAED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +129,14 @@ Global
 		{9D1BAFAB-A6D2-4461-9195-65302ADCAE07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D1BAFAB-A6D2-4461-9195-65302ADCAE07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D1BAFAB-A6D2-4461-9195-65302ADCAE07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C72B53-72C6-4630-A1E8-074AEACC7F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C72B53-72C6-4630-A1E8-074AEACC7F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C72B53-72C6-4630-A1E8-074AEACC7F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C72B53-72C6-4630-A1E8-074AEACC7F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58CF75C2-5456-414B-A6DD-1A9B4FC2BAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CF75C2-5456-414B-A6DD-1A9B4FC2BAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CF75C2-5456-414B-A6DD-1A9B4FC2BAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CF75C2-5456-414B-A6DD-1A9B4FC2BAED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -144,6 +158,7 @@ Global
 		{D5ADF0B6-95BC-472D-A3BA-00CDF251E1D6} = {772C92F7-BA6E-4A11-B4C6-9F7C0EEBAAD0}
 		{D9FB6140-9412-4769-A103-6C64A1E4CFAE} = {772C92F7-BA6E-4A11-B4C6-9F7C0EEBAAD0}
 		{E4A47C49-4412-465C-A083-5839F5C963DA} = {772C92F7-BA6E-4A11-B4C6-9F7C0EEBAAD0}
+		{81C72B53-72C6-4630-A1E8-074AEACC7F6A} = {C2F9937D-DBEA-423B-B1CD-2D758C004FF4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3F8E0917-B6A7-4802-A74F-25EF87ADBB53}
