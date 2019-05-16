@@ -26,7 +26,7 @@ namespace Distinct
 				if (A[i] < -1000000 || A[i] > 1000000)
 					return 0;
 
-				indice = A[i] < 0 ? 1000000 + A[i] : 1000000 + A[i];
+				indice = 1000000 + A[i];
 				ns[indice]++;
 
 				if (ns[indice] == 1)
